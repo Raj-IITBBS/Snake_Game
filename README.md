@@ -12,7 +12,7 @@ This project is a simple Snake game implemented in C using the `ncurses` library
 
 ## How to Run
 1. Clone the repository:
-   git clone <repository-url>
+   git clone https://github.com/Raj-IITBBS/Snake_Game.git
 
 2. Compile the code using gcc:
 gcc -o snake_game snake_game.c -lncurses
