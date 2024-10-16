@@ -1,6 +1,6 @@
 /* 
-gcc -o project project.c -lncurses
-./project
+gcc -o snake_game snake_game.c -lncurses
+./snake_game
 */
 
 #include <stdio.h>
